@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const ILLUSTRATION = "https://cdn.poehali.dev/projects/5a385ddf-3ecd-4850-9309-b71f6c5ae65b/files/07589884-d891-4b87-ae47-9aa72e412422.jpg";
+const ILLUSTRATION = "https://cdn.poehali.dev/projects/5a385ddf-3ecd-4850-9309-b71f6c5ae65b/files/61581611-bd00-4d72-8593-8750a8b17172.jpg";
 
 const WillowBranch = ({ flip = false }: { flip?: boolean }) => (
   <svg
